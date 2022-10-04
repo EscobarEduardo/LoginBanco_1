@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="151dp"
+        android:layout_height="26dp"
+        android:text="LOGGIN"
+        android:textColor="#0B0B0B"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <EditText
+        android:id="@+id/et_Nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Digite su nombre"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="120dp" />
+
+    <EditText
+        android:id="@+id/et_Contraseña"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Digite su contraseña"
+        android:inputType="textPersonName|textPassword"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="193dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="registrar"
+        android:text="REGISTRAR"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="283dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
