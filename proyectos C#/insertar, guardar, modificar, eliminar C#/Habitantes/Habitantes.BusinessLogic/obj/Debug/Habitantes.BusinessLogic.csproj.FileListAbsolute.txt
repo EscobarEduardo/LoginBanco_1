@@ -1,0 +1,22 @@
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.BusinessLogic.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.BusinessLogic.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.DataAccess.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.Entities.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.DataAccess.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.Entities.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.CopyComplete
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.BusinessLogic.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.BusinessLogic.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.DataAccess.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.Entities.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.DataAccess.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\bin\Debug\Habitantes.Entities.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.AssemblyReference.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.csproj.CopyComplete
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.BusinessLogic\obj\Debug\Habitantes.BusinessLogic.pdb

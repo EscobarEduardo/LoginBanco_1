@@ -1,0 +1,18 @@
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.DataAccess.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.DataAccess.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.Entities.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.Entities.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.CopyComplete
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.DataAccess.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.DataAccess.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.Entities.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\bin\Debug\Habitantes.Entities.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.AssemblyReference.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.csproj.CopyComplete
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.DataAccess\obj\Debug\Habitantes.DataAccess.pdb

@@ -1,0 +1,7 @@
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.csproj.AssemblyReference.cache
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.Form1.resources
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.Northwind.WinForms.Customers.resources
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.Northwind.WinForms.Territories.resources
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.Properties.Resources.resources
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.csproj.GenerateResource.cache
+C:\Programacion\proyectos C#\Laboratoio2\Laboratoio2\obj\Debug\Laboratoio2.csproj.CoreCompileInputs.cache

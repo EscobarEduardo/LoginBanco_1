@@ -1,0 +1,12 @@
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\bin\Debug\Habitantes.Entities.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\bin\Debug\Habitantes.Entities.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.dll
+C:\Users\LC\source\repos\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\bin\Debug\Habitantes.Entities.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\bin\Debug\Habitantes.Entities.pdb
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.csproj.AssemblyReference.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.csproj.CoreCompileInputs.cache
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.dll
+C:\Programacion\proyectos C#\insertar, guardar, modificar, eliminar C#\Habitantes\Habitantes.Entities\obj\Debug\Habitantes.Entities.pdb

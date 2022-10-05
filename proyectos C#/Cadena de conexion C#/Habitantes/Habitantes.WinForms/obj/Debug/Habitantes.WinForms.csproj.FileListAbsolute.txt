@@ -1,0 +1,18 @@
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.exe.config
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.exe
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.pdb
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.AssemblyReference.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.Properties.Resources.resources
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.GenerateResource.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.exe
+C:\Users\LC\source\repos\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.pdb
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.exe.config
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.exe
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\bin\Debug\Habitantes.WinForms.pdb
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.AssemblyReference.cache
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.Properties.Resources.resources
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.GenerateResource.cache
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.csproj.CoreCompileInputs.cache
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.exe
+C:\Programacion\proyectos C#\Habitantes\Habitantes\Habitantes.WinForms\obj\Debug\Habitantes.WinForms.pdb
